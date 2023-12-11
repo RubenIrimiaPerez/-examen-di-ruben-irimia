@@ -46,7 +46,7 @@ public class Arranque extends AppCompatActivity {
                 .transition(DrawableTransitionOptions.withCrossFade(2000))
                 .centerCrop()
                 .into(background);
-openAcceso();
+        openAcceso();
 
     }
 
